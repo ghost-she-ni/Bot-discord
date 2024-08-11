@@ -1,0 +1,11 @@
+argparse
+discord
+json
+logger
+typing
+dotenv
+os
+aiohttp
+random
+blagues_api
+logging
